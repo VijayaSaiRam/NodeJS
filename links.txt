@@ -1,0 +1,123 @@
+https://www.npmjs.com/package
+
+Gives the information about third party packages/modules
+
+**************************************************************
+
+https://docs.npmjs.com/how-npm-works/packages
+
+documentation about npm
+
+**************************************************************
+
+https://docs.nodejitsu.com/articles/getting-started/npm/what-is-the-file-package-json/
+
+Information about package.json
+
+
+
+************************************************************
+
+
+https://howtonode.org/understanding-process-next-tick
+
+Information about process.nextTick
+
+***************************************************************
+
+https://github.com/request/request
+
+Git hub link for request module
+
+***************************************************
+https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
+
+Gulp information
+******************************************************************************
+
+https://www.npmjs.com/package/websocket
+websockets information 
+
+************************************************************
+
+https://www.npmjs.com/package/socket.io
+
+socket.io information 
+
+*************************************************************************
+
+
+https://expressjs.com/
+
+express js information
+
+******************************************************************************
+
+
+
+
+https://expressjs.com/en/guide/routing.html
+
+
+routing guide documentation
+
+*******************************************************************
+
+
+https://www.npmjs.com/package/body-parser
+
+Information about body-parser module which acts as a middle ware to parse the data posted using post method
+
+
+*****************************************************************
+
+https://www.npmjs.com/package/cors
+
+information about the cors module which deals with cross-origin request
+
+********************************************************************
+
+https://expressjs.com/en/starter/generator.html
+Express generator Use the application generator tool, express-generator, to quickly create an application skeleton.
+
+*****************************************************************
+
+https://www.npmjs.com/package/jade
+
+Jade templating engine
+
+************************************
+
+https://packagecontrol.io/packages/Nodejs
+
+Sublime text auto intellisence
+
+execute the git command given in this link
+and follow the instructions specified under build systems
+**************************************************************
+
+
+https://github.com/expressjs/session
+
+information about express-session
+
+****************************************************************
+
+https://dzone.com/articles/understanding-execfile-spawn-exec-and-fork-in-node
+
+spawn , exec() infomation link
+*************************************************
+
+
+github link for deck and worked exampls
+
+https://github.com/SumeetWajpe/Spaient_Node_Apr_2017
+
+-------------------------------------------------
+
+Why to use node js
+
+https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
+
+********************************************************************
+

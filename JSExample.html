@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Javascript</title>
+
+	<script>
+
+	function Car()
+	{
+		this.name="i20";
+		this.speed=200;
+	}
+
+	function JamesBondCar()
+	{
+
+		this.merge=true;
+
+	}
+
+	JamesBondCar.prototype=new Car();
+
+	var jbc=new JamesBondCar();
+
+	JamesBondCar.prototype=new Car();
+	JamesBondCar.prototype.price=45000;
+
+var jbc2=new JamesBondCar();
+
+//block level scoped variables in ES6
+
+{
+
+	let welcome="Hello welcome to JS"
+}
+
+//console.log(welcome) //This throws exception as we are trying to access block variable out side block
+
+{
+
+	let month="April";
+	{
+		console.log(month);       //can be acccessed within nested blocks
+	}
+}
+
+	 function Square(x)   //Anonymous function
+	 {
+	 	return x*x;
+	 }
+
+
+//The above using aero or lambda - introduced in ES6
+	 var sq=x=>x*x;
+
+	 //console.log(sq);
+
+	</script>
+</head>
+
+<body>
+Content of the document......
+</body>
+
+</html>
